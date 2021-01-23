@@ -6,7 +6,7 @@
 
 #### 𝐍𝐨𝐰
 
-* 👩‍💻 Working for SmartHR.
-* 🎙 [\#yancanfm](https://www.yancan.tech/) with @rlho.
+* 👩‍💻 Working for [SmartHR](https://github.com/kufu).
+* 🎙 [\#yancanfm](https://www.yancan.tech/) with [@rlho](https://github.com/rlho).
 * 👩‍🎓 Majoring in computer science at the University of the People.
 
