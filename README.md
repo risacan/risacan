@@ -10,3 +10,11 @@
 * 🎙 [\#yancanfm](https://www.yancan.tech/) with [@rlho](https://github.com/rlho).
 * 👩‍🎓 Majoring in computer science at the University of the People.
 
+#### 𝐁𝐢𝐨
+
+* 🏫 2009 - 2015 Tokyo University of Foreign Studies
+* 🇨🇿 2012 - 2013 Charles University
+
+#### 𝐌𝐨𝐭𝐭𝐨
+
+Drž se nové cesty a starého přítele.
