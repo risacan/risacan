@@ -2,7 +2,7 @@
 
 ### 𝐇𝐞𝐥𝐥𝐨, 𝐰𝐨𝐫𝐥𝐝!
 
-#### I'm a software Developer working in Tokyo 🗼, Japan.
+#### I'm a software developer working in Tokyo 🗼, Japan.
 
 #### 𝐍𝐨𝐰
 
