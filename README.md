@@ -4,6 +4,8 @@
 
 #### I'm a software developer working in Tokyo 🗼, Japan.
 
+* To know my daily life read [一杯一詠☕✉️](https://buttondown.email/risacan/archive/)
+
 #### 𝐍𝐨𝐰
 
 * 👩‍💻 Working for [SmartHR](https://github.com/kufu).
