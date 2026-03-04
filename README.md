@@ -4,7 +4,7 @@
 
 #### I'm a software developer working in Tokyo 🗼, Japan.
 
-*To learn about my daily life, read [一杯一詠☕✉️](https://buttondown.email/risacan/archive/)
+* To learn about my daily life, read [一杯一詠☕✉️](https://buttondown.email/risacan/archive/)
 
 #### 𝐍𝐨𝐰
 
